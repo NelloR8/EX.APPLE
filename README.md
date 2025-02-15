@@ -94,11 +94,15 @@ body{
     font-size: large;
     cursor: pointer;
     display: flex;
-   background-image: url(blob:https://web.whatsapp.com/7dcee638-9ffb-4e49-8524-875907e306bc);
+   background-image: url(ttps://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-card-50-tradein-202409?wid=960&hei=1000&fmt=p-jpg&qlt=95&.v=1723847874415);
     background-color: rgb(255, 255, 255);
  
   border-color: black;
   box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);
+   background-size: cover;  
+    background-position: center;
+    background-repeat: no-repeat; 
+  
  
   
 }
